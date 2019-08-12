@@ -5,11 +5,11 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Account myAccount = new Account("Christos Sideris",(582019),(6984439722L),
+        Account myAccount = new Account("Christos Sideris",(582019),(6982369658L),
                 "christossid@mail.com",(1834.35));
-        Account kwstasAccount = new Account("Kwstas Karantzinis", (978365), (6943714240L),
+        Account kwstasAccount = new Account("Kwstas Karantzinis", (978365), (6956704386L),
                 "kwstaskar@mail.com", (267.45));
-        Account dadAccount = new Account("Dimitris Sideris", (567375), (6944812117L),
+        Account dadAccount = new Account("Dimitris Sideris", (567375), (6965745475L),
                 "dimitrissid@mail.com", (3756.68));
         VipCustomer timVIP = new VipCustomer();
         VipCustomer mumVIP = new VipCustomer("Theodwra Trianti", 80000.0,

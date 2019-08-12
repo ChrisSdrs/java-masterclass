@@ -71,4 +71,3 @@ public class Account {
         return this.phoneNumber;
     }
 }
-
